@@ -1,4 +1,4 @@
-# /root/SIVARAJ-
+# SOORAJ SK
 
 <p align="center">   <strong><a href="https://sooraj.tech">Official Website</a></strong> 
 <p align="center">   <strong><a href="https://www.instagram.com/soorajsk.tech/">Instagram</a></strong> 
