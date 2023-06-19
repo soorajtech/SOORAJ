@@ -24,12 +24,6 @@
 <p align="center">   <a href="https://github.com/soorajtech"><img src="https://github-readme-stats.vercel.app/api?username=soorajtech&show_icons=true&locale=en" alt="soorajtech" alt="SIVARAJ'S GITHUB stats"></a>
  
 
-<p align="center">
-	<a href="https://github.com/soorajtech"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://t.me/S00RAJSK"><img src="https://img.icons8.com/bubbles/50/000000/sent.png" alt="Telegram"/></a>
-	<a href="https://www.instagram.com/soorajsk.tech/"><img src="https://img.icons8.com/clouds/50/instagram-new--v2.png" alt="Instagram"/></a>
-	<a href="mailto:soorajskumar004@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Mail"/></a>
-</p>
 
  
 
