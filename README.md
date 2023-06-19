@@ -11,8 +11,7 @@
 
 
 
----
-# 𝗟𝗲𝘁'𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 :coffee:
+
 <p align="center">
 	<a href="https://github.com/soorajtech/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://t.me/S00RAJSK"><img src="https://img.icons8.com/bubbles/50/000000/sent.png" alt="Telegram"/></a>
