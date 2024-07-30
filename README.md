@@ -11,6 +11,8 @@
 - 💬 Ask me about Cyber Security, Programming 
 - 📄 Know more about me at [soorajsk.tech](https://soorajsk.tech)
 - 📫 How to reach me: [soorajsk.contact@gmail.com](mailto:soorajsk.contact@gmail.com)
+https://discord.c99.nl/widget/theme-2/804648283343028234.png
+  [![jiecord](https://discord.c99.nl/widget/theme-2/804648283343028234.png)](https://dsc.gg/ajidevserver) <br />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soorajsk.tech/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=Discord&logoColor=white)](https://discord.gg/ckzMreUwST) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:soorajsk.contact@gmail.com)
